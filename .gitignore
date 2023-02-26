@@ -24,3 +24,5 @@ hs_err_pid*
 
 # file
 .idea
+client/target/
+server/target/
